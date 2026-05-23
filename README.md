@@ -1,6 +1,6 @@
 # Hi there! I'm BlueMoon-23 👋
 
-Welcome to **✨Pandarized Workstation✨**, the central hub where I build, experiment, and store my creative engineering projects.
+I made **✨Pandarized Workstation✨**, the central hub where I build, experiment, and store my creative engineering projects.
 
 ---
 
