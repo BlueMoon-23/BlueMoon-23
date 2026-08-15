@@ -43,14 +43,28 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
 </div>
 
-###
+### 🕹️ Featured Projects
 
+<div align="center">
+  <a href="https://github.com/BlueMoon-23/Pixel-Blitz">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=BlueMoon-23&repo=Pixel-Blitz&theme=tokyonight&hide_border=false&border_radius=8" height="120" alt="Pixel-Blitz" />
+  </a>
+</div>
+
+###
 <h3 data-importer="text" align="left">🔥   My Stats :</h3>
 
 ###
 
 <div data-importer="stats" align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=BlueMoon-23&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="220" alt="streak graph" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=BlueMoon-23&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BlueMoon-23&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="top-langs" />
 </div>
 
 ###
